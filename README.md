@@ -1,4 +1,4 @@
-Hola Privet Nǐ hǎo Anyoung Salut! 👋👋👋
+Hola, Privet, Nǐ hǎo, Anyoung, Salut! 👋👋👋
 
 I'm a software engineer from Dallas, Texas.
 
