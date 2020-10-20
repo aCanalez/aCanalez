@@ -10,8 +10,7 @@ I'm a software engineer from Dallas, Texas.
 
 - 👯 I’m looking to collaborate on any application
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=acanalez&theme=radical&hide=stars,contributions&count_private=true&show_icons=true&line_height=34)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=acanalez&hide=html,css&langs_count=20&theme=radical&layout=compact)
 
 <!--
 **aCanalez/aCanalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
