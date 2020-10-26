@@ -4,7 +4,7 @@ I'm a software engineer from Dallas, Texas.
 
 - 🔭  I’m currently working on Artis
 
-- 📫  How to reach me: alexicanales@mavs.uta.com
+- 📫  How to reach me: alexi.canales@mavs.uta.com
 
 - 🔗  [LinkedIn](https://www.linkedin.com/in/alexicanales/)
 
