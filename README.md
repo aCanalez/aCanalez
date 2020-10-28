@@ -1,14 +1,16 @@
-Hola, Privet, Nǐ hǎo, Anyoung, Salut! 👋👋👋
-
-I'm a software engineer from Dallas, Texas.
-
-- 🔭  I’m currently working on Artis
-
-- 📫  How to reach me: alexi.canales@mavs.uta.com
-
-- 🔗  [LinkedIn](https://www.linkedin.com/in/alexicanales/)
-
-- 👯  I’m looking to collaborate on any application
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+    Hola, Privet, Nǐ hǎo, Anyoung, Salut!
+  <br><br>
+  <samp>
+    :wave: Hi! I'm a Software Engineer at Nexrage Studios.
+    <br>I’m currently working on Artis 🌱 the future of the cannabis industry!
+    <br><br>
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: email me @ <a href="mailto:alexi.canales@mavs.uta.edu?subject=Mail from Github">📫 Email Me</a>  
+  </samp>
+  <samp>Lets connect on linkedin - 🔗  [LinkedIn](https://www.linkedin.com/in/alexicanales/)</samp>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=acanalez&hide=html,css&langs_count=20&theme=radical&layout=compact)
 
