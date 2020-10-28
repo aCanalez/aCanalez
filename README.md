@@ -9,6 +9,7 @@
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: email me @ <a href="mailto:alexi.canales@mavs.uta.edu?subject=Mail from Github">📫 Email Me</a>  
   </samp>
+  <br><br>
   <samp>Lets connect on linkedin - 🔗  [LinkedIn](https://www.linkedin.com/in/alexicanales/)</samp>
 </p>
 
