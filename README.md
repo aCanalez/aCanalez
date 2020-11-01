@@ -6,10 +6,9 @@
     :wave: Hi! I'm a Software Engineer at Nexrage Studios.
     <br>I’m currently working on Artis 🌱 the future of the cannabis industry!
     <br>:coffee: Wanna chat? :point_right: email me @ <a href="mailto:alexi.canales@mavs.uta.edu?subject=Mail from Github">📫 Email Me</a>  
+    <br>Lets connect on linkedin - 🔗  (https://www.linkedin.com/in/alexicanales/)
   </samp>
-  <br><br>
-  <samp>Lets connect on linkedin - 🔗  [LinkedIn](https://www.linkedin.com/in/alexicanales/)</samp>
-</p>
+  </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=acanalez&hide=html,css&langs_count=20&theme=radical&layout=compact)
 
