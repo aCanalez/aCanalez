@@ -9,7 +9,7 @@
   </samp>
   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=acanalez&hide=html,css,jupyter+notebook&langs_count=20&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=acanalez&hide=html,css,jupyter+notebook,python&langs_count=20&theme=radical&layout=compact)
 
 <!--
 **aCanalez/aCanalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
