@@ -4,7 +4,6 @@
   <br><br>
   <samp>
     :wave: Hi! I'm a Software Engineer located in Dallas, TX. I spend most of time helping start-ups launch!
-    <br>I’m currently working on forknspoon the future of the restaurant industry! 🍦
     <br>:coffee: Wanna chat? :point_right: email me @ <a href="mailto:alexi.canales@mavs.uta.edu?subject=Mail from Github">📫 Email Me</a>  
   </samp>
   </p>
